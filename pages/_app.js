@@ -1,5 +1,6 @@
 import '../styles/globals.css';
 import '../styles/certificate.css';
+import '../styles/student.css'
 import 'bootstrap/dist/css/bootstrap.css';
 import '../components/ui/Button/style.css';
 import '../components/ui/Link/style.css';

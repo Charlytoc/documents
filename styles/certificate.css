@@ -9,3 +9,10 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+.block-style {
+    background-color: antiquewhite;
+}
+.inline-style {
+    background-color: aqua;
+}
